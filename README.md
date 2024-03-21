@@ -20,7 +20,8 @@ Variables declared without a corresponding initialization are zero-valued. For e
     fmt.Println(e)
 <h1> road map for Basic  of go </h1>
 
-![image](https://github.com/virat122/goLangImpprtantConcept/assets/121007372/09567e36-79f8-4130-82b7-049a4218c6bd)
+![image](https://github.com/virat122/goLangImpprtantConcept/assets/121007372/96e83a60-65d9-41ba-a233-cae4b7bafc7a)
+
 
 
 
