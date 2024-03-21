@@ -27,5 +27,8 @@ Variables declared without a corresponding initialization are zero-valued. For e
 
 
 <h1> road map for advance  of go </h1>
-![image](https://github.com/virat122/goLangImpprtantConcept/assets/121007372/051963c4-ecf1-40e6-8140-7b2a4b3827c5)
+
+![image](https://github.com/virat122/goLangImpprtantConcept/assets/121007372/78cb2855-9eee-4a3d-b894-4d2384278c40)
+
+
 
