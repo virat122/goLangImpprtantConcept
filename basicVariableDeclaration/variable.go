@@ -11,10 +11,24 @@ func main() {
 	var radius = 6
 	fmt.Println(radius)
 
-	var 
+	//You can declare multiple variables at once.
 
-	name = "vikrant" //compiler automatically infers the variable data type 
-	name = "vishal" // its ok
+	var b, c int = 1, 2
+	fmt.Println(b, c) //Go will infer the type of initialized variables.
+
+	var d = true
+	fmt.Println(d)
+	//Variables declared without a corresponding initialization are zero-valued. For example, the zero value for an int is 0.
+
+	var e int
+	fmt.Println(e)
+	//The := syntax is shorthand for declaring and initializing a variable, e.g. for var f string = "apple" in this case. This syntax is only available inside functions.
+
+	f, id := "apple", 45
+	fmt.Println(f, id)
+
+	name := "vikrant" //compiler automatically infers the variable data type
+	name = "vishal"   // its ok
 	//name=34  // {erorr} not okk once type is string in above it cnt change into int or other type
 	fmt.Println("my name is ", name)
 
@@ -35,8 +49,5 @@ func main() {
 
 	var rollno5 uint16 = 26
 	fmt.Printf("my roll no is  no is %d\n ", rollno5)
-
-
-
 
 }
