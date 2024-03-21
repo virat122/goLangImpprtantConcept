@@ -18,4 +18,12 @@ Variables declared without a corresponding initialization are zero-valued. For e
 
     var e int
     fmt.Println(e)
+<h1> road map for Basic  of go </h1>
 
+![image](https://github.com/virat122/goLangImpprtantConcept/assets/121007372/09567e36-79f8-4130-82b7-049a4218c6bd)
+
+
+
+
+<h1> road map for advance  of go </h1>
+![image](https://github.com/virat122/goLangImpprtantConcept/assets/121007372/51bbd057-7de8-4aad-a806-fe23afafccac)
